@@ -8,8 +8,8 @@ This project provides a minimal setup to get **React** working with **Vite**. It
 
 ```bash
 # 1. Clone repository
-git clone <YOUR_REPO_URL>
-cd <YOUR_PROJECT_FOLDER>
+git clone https://github.com/UserHan9/Spotify-Clone.git
+cd Spotify-Clone
 
 # 2. Install dependencies
 npm install
